@@ -1,0 +1,29 @@
+#home-page{
+    background-color:#b1debd ;
+}
+#footer_last{
+    background-color:#b1debd ;
+}
+#second-page{
+    background-color:white ;
+}
+
+
+#h2-first{
+    font-size: 65px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+#h2-second{
+    margin-top: 87px;
+    font-size: 65px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+#h1-first{
+    margin-top: 50px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+
